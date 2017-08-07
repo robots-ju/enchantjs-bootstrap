@@ -1,0 +1,18 @@
+//$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+#game-area {
+    background: #efefef;
+    padding: 50px 0;
+}
+
+#enchant-stage {
+    margin: 0 auto;
+    background: white;
+}
+
+.controls {
+    padding: 20px;
+    text-align: center;
+}
